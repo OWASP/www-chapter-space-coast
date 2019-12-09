@@ -1,17 +1,6 @@
-### space coast Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+### Chapter Information
+<!--* Chapter Region-->
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
-
-### Code Repository
-* [repo](#)
-
-### Change Log
-* [changes](#)
-
+### Social Links
+<!--* [Meetup](#)
+* [Social Link](#)-->
