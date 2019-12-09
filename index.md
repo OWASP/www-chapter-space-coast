@@ -3,10 +3,11 @@
 layout: col-sidebar
 title: OWASP space coast
 tags: example-tag
-level: 4
+level: 0
 
 region: United States
 
+auto-migrated: 1
 ---
 
 This is an example of a Project or Chapter Page.
