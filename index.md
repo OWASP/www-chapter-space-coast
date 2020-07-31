@@ -9,6 +9,9 @@ region: United States
 
 auto-migrated: 1
 auto-migrated: 1
+meetup-group: OWASP-Space-Coast-Chapter
+country: USA
+postal-code: 32905
 
 ---
 
